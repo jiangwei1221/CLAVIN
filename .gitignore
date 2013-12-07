@@ -13,3 +13,5 @@ src/test/resources/evaluation
 Evaluator.java
 StanfordExtractor.java
 /dependency-reduced-pom.xml
+hierarchy.txt
+hierarchy.zip
